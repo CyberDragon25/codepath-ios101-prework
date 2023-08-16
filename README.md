@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - **codepath-ios101-prework**
 
-Submitted by: **Your Name Here**
+Submitted by: Subham Bhattacharya
 
-**Name of your app** is an app that... [TODO] 
+**codepath-ios101-prework** is an app that will display information such as my name, college, and my future occupation the will also have a button which once pressed whill randomly change the color og the backgrounf
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challange I had was not the building the app it was to put it into the github then trying to run it again in xcode, as it created many erros which were painstacking to solve
 
 ## License
 
