@@ -27,6 +27,25 @@ GIF created with KAP
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+List of Apps I like
+ - Youtube
+    - Smooth video watching experiece
+    - I can subscribe to channels and access them easily
+    - Good video recommendations
+    - Good search (Searching for a specific topic normally brings good result)
+ - Snapchat
+    - Filters (amazing variety)
+    - Good App for chating
+ - Clash Royale
+    - Good addictive game
+    - extremely smooth and fun to play
+ - Genshin Impact
+    - Amazing game (console quality)
+    - Great music and artstyle
+ - Safari
+    - Great web broser
+
+App Idea : I am thinking of making app called 'download' which as the name suggest downloads things more specifically things like youtube videos, snapchat videos where the app will then store it so you can watch the videos without internet becuase not everyone can afford youtube preminum, I am thinking of making it such that once you open the app you will get acess to a web browser, then with the browser you can visit any webiste you want like dailymotion, youtube etc, once you see a video, there will be a download video pressing it will simpley download the video in the app so you can watch it later.
 
 ## Notes
 
