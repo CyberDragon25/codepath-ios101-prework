@@ -34,7 +34,7 @@ The main challange I had was not the building the app it was to put it into the 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
